@@ -10,4 +10,4 @@ I am running [Hyprland](https://hyprland.org/) on Arch Linux along with the foll
 - NeoVim
 - Waybar
 - Rofi
-- [Kanata](https://github.com/ngosi/kanata-config)
+- [Kanata](https://github.com/ngosi/keyboard-config)
