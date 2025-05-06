@@ -8,6 +8,7 @@ I am running **[Hyprland](https://hyprland.org/)** on **Arch Linux** along with 
 - **Tmux**
     - **[Sesh](https://github.com/joshmedeski/sesh)** session manager
 - **NeoVim**
-- **[Kanata](https://github.com/ngosi/keyboard-config)**
 - **Waybar**
 - **Rofi**
+- **[Kanata](https://github.com/ngosi/keyboard-config)**
+- **[Zsh-Undo-Dir](https://github.com/ngosi/zsh-undo-dir.git)**
