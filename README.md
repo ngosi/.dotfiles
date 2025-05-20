@@ -6,9 +6,10 @@ I am running **[Hyprland](https://hyprland.org/)** on **Arch Linux** along with 
 - **Wezterm**
 - **Zsh**
 - **Tmux**
-    - **[Sesh](https://github.com/joshmedeski/sesh)** session manager
+    * **[Sesh](https://github.com/joshmedeski/sesh)**
 - **NeoVim**
 - **Waybar**
-- **Rofi**
+    * **[Mechabar](https://github.com/sejjy/mechabar.git)**
+- **Rofi-Wayland**
 - **[Kanata](https://github.com/ngosi/keyboard-config)**
-- **[Zsh-Undo-Dir](https://github.com/ngosi/zsh-undo-dir.git)**
+- **[Zsh-Undo-Dir](https://github.com/ngosi/zsh-undo-dir.git)** *(my zsh plugin)*
