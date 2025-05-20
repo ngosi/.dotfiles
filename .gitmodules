@@ -4,3 +4,6 @@
 [subodule "zsh-undo-dir"]
     path = .zsh/plugins/zsh-undo-dir
     url = https://github.com/ngosi/zsh-undo-dir
+[submodule ".zsh/plugins/zsh-undo-dir"]
+	path = .zsh/plugins/zsh-undo-dir
+	url = https://github.com/ngosi/zsh-undo-dir.git
